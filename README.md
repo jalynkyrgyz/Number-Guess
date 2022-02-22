@@ -1,1 +1,1 @@
-https://jalynkyrgyz.github.io/Number-Guess/inbox.html
+https://jalynkyrgyz.github.io/Number-Guess/index.html
